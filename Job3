@@ -1,0 +1,6 @@
+#!/bin/zsh
+
+Read two number
+a=$1
+b=$2
+echo "Result : $(($a+$b))" 
