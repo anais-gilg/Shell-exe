@@ -1,0 +1,8 @@
+touch myfirstscript.sh
+nano myfirstscript.sh
+	#!/bin/zsh
+	echo "I'm a script"
+
+chmod +x myfirstscript.sh
+./myfirstscript.sh
+I'm a script
